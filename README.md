@@ -3,7 +3,7 @@
 A high-performance, production-grade computer vision system for automated detection and counting of trout eggs using deep learning. This system leverages the Roboflow inference engine to identify and classify different egg states (eyed, blank, dead) with configurable confidence thresholds and advanced QR code masking capabilities.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)IT)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ## Table of Contents

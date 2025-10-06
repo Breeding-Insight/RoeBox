@@ -693,7 +693,8 @@ Special thanks to the aquaculture research community for providing the biologica
 
 For questions, suggestions, or collaborations:
 
-- **Email**: your.email@institution.edu
+- **Email**: aja294@cornell.edu
+- **Email**: edr24@cornell.edu
 - **GitHub Issues**: [Report issues](https://github.com/yourusername/trout-egg-counter/issues)
 - **Documentation**: [Full documentation](https://yourusername.github.io/trout-egg-counter)
 
